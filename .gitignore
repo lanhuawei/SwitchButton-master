@@ -1,0 +1,21 @@
+.gradle
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+.project
+.classpath
+.settings/
+
+# vim
+*~
+*.sw*
+
+# git
+local.properties
+
+#Idea
+*.iml
+/.idea
